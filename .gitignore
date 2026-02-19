@@ -8,3 +8,5 @@ __pycache__/
 *.bak
 .DS_Store
 Thumbs.db
+~$*.xlsm
+~$*.xlsx
